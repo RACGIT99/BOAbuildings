@@ -163,8 +163,8 @@ body {
 #popup {
   position: absolute;
   margin: 1px 2px;
-  max-width: 480px;
-  min-width: 300px;
+  max-width: 400px;
+  min-width: 200px;
   z-index: 9999;
   background-color: white;
   box-shadow: 1px 2px 6px rgba(0,0,0,0.2);
@@ -197,7 +197,7 @@ body {
 
 #popupbody {
   padding: 0px 5px 5px;
-  min-width: 50px;
+  min-width: 350px;
   max-height: 500px;
   overflow: auto;
 }
